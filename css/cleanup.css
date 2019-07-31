@@ -23,3 +23,6 @@
   display:none;
 }
 
+.vsc-initialized #wall .parent div:last-child #tag-6 {
+  display:none;
+}
